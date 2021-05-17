@@ -34,5 +34,5 @@ def main():
     u.dispatcher.add_handler(timer_handler)
     u.start_polling()
 
-if __name__ == '__main__'():
+if __name__ == '__main__':
     main()
